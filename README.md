@@ -15,5 +15,5 @@ Yandex Prakticum, 2023
 
 - ML, CV, NLP
 - Python, SQL
-Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, Seaborn, PySpark
+Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, Seaborn, PySpark  
 decision tree, random forest, CatBoost, XGBoost, LightGBM, BERT, Gradient Boosting
